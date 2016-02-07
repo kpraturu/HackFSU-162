@@ -7,8 +7,8 @@ The initial idea was to use Oculus Rift in collaboration with Leap Motion in ord
 To run go to Assets/_Scenes/CADViewer.unity
 
 
-Created By:
+Created By: <br>
 Yeshy Manoharan <br>
-Kavish Patel
-Karthik Praturu
+Kavish Patel <br>
+Karthik Praturu <br>
 
