@@ -7,7 +7,7 @@ using Pose = Thalmic.Myo.Pose;
 using UnlockType = Thalmic.Myo.UnlockType;
 using VibrationType = Thalmic.Myo.VibrationType;
 
-
+/*
 public class ObjectMovements : MonoBehaviour {
 
 
@@ -138,7 +138,7 @@ public class ObjectMovements : MonoBehaviour {
 }
 
 //If above doesn't work, delete everything under import statements and copy this block:
-/*
+*/
 
     public class ObjectMovements : MonoBehaviour {
 
@@ -160,7 +160,7 @@ public class ObjectMovements : MonoBehaviour {
         // Update is called once per frame
         void Update()
         {
-            thalmicMyo = myo.GetComponent<ThalmicMyo>();
+            ThalmicMyo thalmicMyo = myo.GetComponent<ThalmicMyo>();
         
             Vector3 zeroRoll = computeZeroRollVector(myo.transform.forward);
             float roll = rollFromZero(zeroRoll, myo.transform.forward, myo.transform.up);
@@ -226,4 +226,4 @@ public class ObjectMovements : MonoBehaviour {
         }
     }
 
-  */
+  

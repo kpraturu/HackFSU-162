@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/Yeshy/Documents/Karthik/HackFSU-16/Assets/_Scenes/CADViewer.unity
+  isLoaded: 1
+  isActive: 1
