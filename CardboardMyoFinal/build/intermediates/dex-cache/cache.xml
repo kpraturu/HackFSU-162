@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Yeshy\AndroidStudioProjects\CardboardMyoFinal\CardboardMyo\build\intermediates\exploded-aar\com.thalmic\myosdk\0.10.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d189db75174a41996c33bb243d2228aacf10fa53">
+        <dex dex="C:\Users\Yeshy\AndroidStudioProjects\CardboardMyoFinal\CardboardMyo\build\intermediates\pre-dexed\debug\classes-98436d5094895e3b03f5fe2bd7dad285c2e38b82.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yeshy\AndroidStudioProjects\CardboardMyoFinal\CardboardMyo\build\intermediates\exploded-aar\com.thalmic\myosdk\0.10.0\libs\native-libs.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d24ac9790966ffbd1bd9d921a262572c94903027">
+        <dex dex="C:\Users\Yeshy\AndroidStudioProjects\CardboardMyoFinal\CardboardMyo\build\intermediates\pre-dexed\debug\native-libs-f652c14414c7b7f6fde693463427b3e3018e68c3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yeshy\AndroidStudioProjects\CardboardMyoFinal\CardboardMyo\libs\unityvractivity.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c19a32b0b1074346368f1012b5606d794e6eeb3">
+        <dex dex="C:\Users\Yeshy\AndroidStudioProjects\CardboardMyoFinal\CardboardMyo\build\intermediates\pre-dexed\debug\unityvractivity-c38e1f1931d36275af9a4608e2b34d2cb65f6089.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yeshy\AndroidStudioProjects\CardboardMyoFinal\CardboardMyo\libs\unity-classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b3c0381885c353a7cacf0205d9b0272d288b9c93">
+        <dex dex="C:\Users\Yeshy\AndroidStudioProjects\CardboardMyoFinal\CardboardMyo\build\intermediates\pre-dexed\debug\unity-classes-ff2e9853bb620f701bb2e3f9712d6a662dfd6a1a.jar" />
+    </item>
+
+</items>

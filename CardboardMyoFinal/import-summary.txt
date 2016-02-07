@@ -1,0 +1,39 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => CardboardMyo\src\main\AndroidManifest.xml
+* assets\ => CardboardMyo\src\main\assets\
+* libs\armeabi-v7a\libaudiopluginvrunity.so => CardboardMyo\src\main\jniLibs\armeabi-v7a\libaudiopluginvrunity.so
+* libs\armeabi-v7a\libmain.so => CardboardMyo\src\main\jniLibs\armeabi-v7a\libmain.so
+* libs\armeabi-v7a\libmono.so => CardboardMyo\src\main\jniLibs\armeabi-v7a\libmono.so
+* libs\armeabi-v7a\libunity.so => CardboardMyo\src\main\jniLibs\armeabi-v7a\libunity.so
+* libs\armeabi-v7a\libvrunity.so => CardboardMyo\src\main\jniLibs\armeabi-v7a\libvrunity.so
+* libs\unity-classes.jar => CardboardMyo\libs\unity-classes.jar
+* libs\unityvractivity.jar => CardboardMyo\libs\unityvractivity.jar
+* libs\x86\libaudiopluginvrunity.so => CardboardMyo\src\main\jniLibs\x86\libaudiopluginvrunity.so
+* libs\x86\libmain.so => CardboardMyo\src\main\jniLibs\x86\libmain.so
+* libs\x86\libmono.so => CardboardMyo\src\main\jniLibs\x86\libmono.so
+* libs\x86\libunity.so => CardboardMyo\src\main\jniLibs\x86\libunity.so
+* libs\x86\libvrunity.so => CardboardMyo\src\main\jniLibs\x86\libvrunity.so
+* res\ => CardboardMyo\src\main\res\
+* src\ => CardboardMyo\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

@@ -1,0 +1,5 @@
+C:\Users\Yeshy\AndroidStudioProjects\CardboardMyoFinal\CardboardMyo\build\intermediates\classes\debug
+C:\Users\Yeshy\AndroidStudioProjects\CardboardMyoFinal\CardboardMyo\build\intermediates\pre-dexed\debug\native-libs-f652c14414c7b7f6fde693463427b3e3018e68c3.jar
+C:\Users\Yeshy\AndroidStudioProjects\CardboardMyoFinal\CardboardMyo\build\intermediates\pre-dexed\debug\unityvractivity-c38e1f1931d36275af9a4608e2b34d2cb65f6089.jar
+C:\Users\Yeshy\AndroidStudioProjects\CardboardMyoFinal\CardboardMyo\build\intermediates\pre-dexed\debug\unity-classes-ff2e9853bb620f701bb2e3f9712d6a662dfd6a1a.jar
+C:\Users\Yeshy\AndroidStudioProjects\CardboardMyoFinal\CardboardMyo\build\intermediates\pre-dexed\debug\classes-98436d5094895e3b03f5fe2bd7dad285c2e38b82.jar

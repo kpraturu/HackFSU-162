@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CardboardMyo/CardboardMyo.iml" filepath="$PROJECT_DIR$/CardboardMyo/CardboardMyo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CardboardMyoFinal.iml" filepath="$PROJECT_DIR$/CardboardMyoFinal.iml" />
+    </modules>
+  </component>
+</project>
+
