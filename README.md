@@ -8,7 +8,7 @@ To run go to Assets/_Scenes/CADViewer.unity
 
 
 Created By:
-Yeshy Manoharan\n
-Kavish Patel\n
-Karthik Praturu\n
+# Yeshy Manoharan 
+Kavish Patel
+Karthik Praturu
 
