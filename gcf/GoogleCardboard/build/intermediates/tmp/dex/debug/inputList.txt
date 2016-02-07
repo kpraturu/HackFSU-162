@@ -1,0 +1,5 @@
+C:\Users\Yeshy\AndroidStudioProjects\gcf\GoogleCardboard\build\intermediates\classes\debug
+C:\Users\Yeshy\AndroidStudioProjects\gcf\GoogleCardboard\build\intermediates\pre-dexed\debug\native-libs-98db9e57030b35f87bf548c1bdecaac2fde732e2.jar
+C:\Users\Yeshy\AndroidStudioProjects\gcf\GoogleCardboard\build\intermediates\pre-dexed\debug\unityvractivity-9bf9eba741fa743e7fd055ff90899ec1056cddf1.jar
+C:\Users\Yeshy\AndroidStudioProjects\gcf\GoogleCardboard\build\intermediates\pre-dexed\debug\unity-classes-6a80a79deefc1e05827dbd9cb30e67c953f38222.jar
+C:\Users\Yeshy\AndroidStudioProjects\gcf\GoogleCardboard\build\intermediates\pre-dexed\debug\classes-b2ce2fe15a088a5b139d6eee9557dbbb562c92b1.jar

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Yeshy\AndroidStudioProjects\gcf\GoogleCardboard\libs\unity-classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b3c0381885c353a7cacf0205d9b0272d288b9c93">
+        <dex dex="C:\Users\Yeshy\AndroidStudioProjects\gcf\GoogleCardboard\build\intermediates\pre-dexed\debug\unity-classes-6a80a79deefc1e05827dbd9cb30e67c953f38222.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yeshy\AndroidStudioProjects\gcf\GoogleCardboard\libs\unityvractivity.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3c19a32b0b1074346368f1012b5606d794e6eeb3">
+        <dex dex="C:\Users\Yeshy\AndroidStudioProjects\gcf\GoogleCardboard\build\intermediates\pre-dexed\debug\unityvractivity-9bf9eba741fa743e7fd055ff90899ec1056cddf1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yeshy\AndroidStudioProjects\gcf\GoogleCardboard\build\intermediates\exploded-aar\com.thalmic\myosdk\0.10.0\libs\native-libs.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d24ac9790966ffbd1bd9d921a262572c94903027">
+        <dex dex="C:\Users\Yeshy\AndroidStudioProjects\gcf\GoogleCardboard\build\intermediates\pre-dexed\debug\native-libs-98db9e57030b35f87bf548c1bdecaac2fde732e2.jar" />
+    </item>
+    <item
+        jar="C:\Users\Yeshy\AndroidStudioProjects\gcf\GoogleCardboard\build\intermediates\exploded-aar\com.thalmic\myosdk\0.10.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d189db75174a41996c33bb243d2228aacf10fa53">
+        <dex dex="C:\Users\Yeshy\AndroidStudioProjects\gcf\GoogleCardboard\build\intermediates\pre-dexed\debug\classes-b2ce2fe15a088a5b139d6eee9557dbbb562c92b1.jar" />
+    </item>
+
+</items>

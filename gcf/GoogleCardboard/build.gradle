@@ -1,0 +1,31 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 21
+    buildToolsVersion "21.1.2"
+
+    defaultConfig {
+        applicationId "com.example.CardboardUnityDemo"
+        minSdkVersion 18
+        targetSdkVersion 22
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile files('libs/unity-classes.jar')
+    compile files('libs/unityvractivity.jar')
+    repositories {
+        maven {
+            url 'C:/Users/Yeshy/Desktop/myo-android-sdk-0.10.0/myorepository'
+        }
+    }
+
+    compile('com.thalmic:myosdk:0.10.+@aar')
+}
